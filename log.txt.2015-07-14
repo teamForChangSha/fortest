@@ -1,0 +1,5 @@
+1 [main] INFO LogTest  - log info
+6 [main] DEBUG LogTest  - log debug
+6 [main] WARN LogTest  - log warn
+6 [main] ERROR LogTest  - log error
+6 [main] FATAL LogTest  - log fatal

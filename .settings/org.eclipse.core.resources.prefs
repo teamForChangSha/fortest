@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/com/cattsoft/fcconnector/service/FCService.java=UTF-8
+encoding//src/com/cattsoft/fcconnector/service/FCServiceImplService.java=UTF-8
+encoding//src/com/cattsoft/fcconnector/service/FCServiceImplServiceLocator.java=UTF-8
+encoding//src/com/cattsoft/fcconnector/service/FCServiceImplServiceSoapBindingStub.java=UTF-8
+encoding//src/com/cattsoft/fcconnector/service/FcFatalResultBean.java=UTF-8
+encoding//src/com/cattsoft/fcconnector/service/FcQueryBean.java=UTF-8
+encoding//src/com/cattsoft/fcconnector/service/FcResult.java=UTF-8
+encoding//src/com/cattsoft/fcconnector/service/PersonBean.java=UTF-8
+encoding//src/com/cattsoft/fcconnector/service/PersonPicBean.java=UTF-8
